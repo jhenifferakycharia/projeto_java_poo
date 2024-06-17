@@ -1,4 +1,4 @@
-package java.modelo;
+package projeto.modelo;
 
 public class Fornecedor extends Usuario {
     public Fornecedor(int id, String nome, String email) {

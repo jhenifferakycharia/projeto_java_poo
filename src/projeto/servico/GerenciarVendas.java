@@ -1,6 +1,6 @@
-package java.servico;
+package projeto.servico;
 
-import java.modelo.Venda;
+import projeto.modelo.Venda;
 
 public interface GerenciarVendas {
     void registrarVenda(Venda venda);

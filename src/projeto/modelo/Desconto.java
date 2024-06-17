@@ -1,4 +1,4 @@
-package java.modelo;
+package projeto.modelo;
 
 public class Desconto {
     private double percentual;

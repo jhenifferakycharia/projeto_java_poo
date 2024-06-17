@@ -1,4 +1,4 @@
-package java.modelo;
+package projeto.modelo;
 
 public class Gerente extends Usuario {
     public Gerente(int id, String nome, String email) {

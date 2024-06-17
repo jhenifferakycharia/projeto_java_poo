@@ -1,4 +1,4 @@
-package java.modelo;
+package projeto.modelo;
 
 public class Produto {
     private int id;

@@ -1,6 +1,6 @@
-package java.servico;
+package projeto.servico;
 
-import java.modelo.Produto;
+import projeto.modelo.Produto;
 
 public interface GerenciarEstoque {
     void adicionarProduto(Produto produto);

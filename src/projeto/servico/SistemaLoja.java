@@ -1,8 +1,9 @@
-package java.servico;
+package projeto.servico;
 
-import java.modelo.*;
 import java.util.ArrayList;
 import java.util.List;
+
+import projeto.modelo.*;
 
 public class SistemaLoja implements GerenciarEstoque, GerenciarVendas {
     private List<Produto> produtos;

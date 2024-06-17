@@ -1,4 +1,4 @@
-package java.modelo;
+package projeto.modelo;
 
 public abstract class Usuario {
     protected int id;
